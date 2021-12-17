@@ -1,10 +1,6 @@
 # RegugeeAidandmanagementSystem
 ## OBJECTIVE 
-To Build an effective system to provision homeless with amenities and  also provide them with medical help by connecting them with the hospitals effectively through health care centres.
-This applications also helps refugee camps to receive donations and funds from help care organization to help them maintain the homeless shelters.
-
-
-
+The main aim of the project is to build an effective system to provide the homeless with amenities and also provide them with medical help by connecting them with the hospitals effectively through health care centers. This application also helps refugee camps to receive donations and funds from help care organizations to help them maintain the homeless shelters.
 
 ![image](https://user-images.githubusercontent.com/91428095/146467778-47ec066f-e752-4c41-9d4d-ddf5481794ba.png)
 
